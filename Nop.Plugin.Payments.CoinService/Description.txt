@@ -1,0 +1,9 @@
+﻿Group: Payment methods
+FriendlyName: Coin Service
+SystemName: Misc.CoinService
+Version: 1.08
+SupportedVersions: 3.90
+Author: Nop Content
+DisplayOrder: 1
+FileName: Nop.Plugin.Misc.CoinService.dll
+Description: Extensions for cryptographic coins
